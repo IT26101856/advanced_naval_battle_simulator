@@ -1,0 +1,76 @@
+PART 2-A INITIAL CONDITIONS
+
+Battlefield = 1000 x 1000
+B Type = U
+B Vmax = 100.00
+B Firing Interval TB = 5.00 seconds
+B Starting Position = 500.00 500.00
+
+ESCORT SHIPS
+
+E1 ED
+Position: 565.81 610.93
+Impact Power: 0.05
+Velocity: 35.86 - 62.19
+Angle: 8.16 - 58.16
+
+E2 EC
+Position: 584.65 422.16
+Impact Power: 0.07
+Velocity: 18.57 - 67.65
+Angle: 6.35 - 31.35
+
+E3 EE
+Position: 976.79 978.06
+Impact Power: 0.04
+Velocity: 20.43 - 57.12
+Angle: 2.75 - 72.75
+
+E4 ED
+Position: 880.96 562.57
+Impact Power: 0.05
+Velocity: 59.83 - 94.26
+Angle: 6.44 - 56.44
+
+E5 EC
+Position: 223.44 214.42
+Impact Power: 0.07
+Velocity: 34.34 - 89.74
+Angle: 35.31 - 60.31
+
+E6 EC
+Position: 556.60 897.60
+Impact Power: 0.07
+Velocity: 16.15 - 57.49
+Angle: 62.68 - 87.68
+
+E7 EE
+Position: 245.84 661.90
+Impact Power: 0.04
+Velocity: 42.23 - 65.85
+Angle: 9.50 - 79.50
+
+E8 EC
+Position: 354.83 954.95
+Impact Power: 0.07
+Velocity: 16.24 - 64.15
+Angle: 45.43 - 70.43
+
+E9 ED
+Position: 321.06 888.99
+Impact Power: 0.05
+Velocity: 56.46 - 94.38
+Angle: 9.53 - 59.53
+
+E10 ED
+Position: 124.02 93.87
+Impact Power: 0.05
+Velocity: 38.37 - 60.44
+Angle: 30.83 - 80.83
+
+PATH
+Point 1 = 672.12 518.86
+Point 2 = 662.49 819.16
+Point 3 = 581.22 739.74
+Point 4 = 782.89 827.06
+Point 5 = 401.64 168.77

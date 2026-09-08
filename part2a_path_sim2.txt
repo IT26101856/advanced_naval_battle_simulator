@@ -1,0 +1,42 @@
+PART 2-A PATH SIMULATION 2
+
+
+ITERATION 1
+B Position = 672.12 518.86
+E1 (ED) hit B | Damage 5% | Health 95.00%
+E2 (EC) hit B | Damage 7% | Health 88.00%
+E4 (ED) hit B | Damage 5% | Health 83.00%
+E5 (EC) hit B | Damage 7% | Health 76.00%
+E9 (ED) hit B | Damage 5% | Health 71.00%
+
+Attack order:
+Time 0.00 sec : Attack #1 -> E2 (EC) [Threat 7%]
+E2 destroyed.
+Time 5.00 sec : Attack #2 -> E5 (EC) [Threat 7%]
+E5 destroyed.
+Time 10.00 sec : Attack #3 -> E6 (EC) [Threat 7%]
+E6 destroyed.
+Time 15.00 sec : Attack #4 -> E8 (EC) [Threat 7%]
+E8 destroyed.
+Time 20.00 sec : Attack #5 -> E1 (ED) [Threat 5%]
+E1 destroyed.
+Time 25.00 sec : Attack #6 -> E4 (ED) [Threat 5%]
+E4 destroyed.
+Time 30.00 sec : Attack #7 -> E9 (ED) [Threat 5%]
+E9 destroyed.
+Time 35.00 sec : Attack #8 -> E10 (ED) [Threat 5%]
+E10 destroyed.
+Time 40.00 sec : Attack #9 -> E3 (EE) [Threat 4%]
+E3 destroyed.
+Time 45.00 sec : Attack #10 -> E7 (EE) [Threat 4%]
+E7 destroyed.
+No reachable Escort target.
+Remaining E ships: 0
+B Health: 71.00%
+Current Battle Time: 50.00 sec
+All Escort ships destroyed.
+
+FINAL STATUS
+B = ALIVE
+B Health = 71.00%
+Total Battle Time = 50.00 sec

@@ -1,0 +1,26 @@
+PART 1-C PATH SIMULATION 2
+
+
+Iteration 1
+B Position: 321.06 888.99
+E1 (ED) HIT B | Damage 5% | B Health 95.00%
+E4 (ED) HIT B | Damage 5% | B Health 90.00%
+E5 (EC) HIT B | Damage 7% | B Health 83.00%
+E6 (EC) HIT B | Damage 7% | B Health 76.00%
+E7 (EE) HIT B | Damage 4% | B Health 72.00%
+E8 (EC) HIT B | Damage 7% | B Health 65.00%
+B destroyed E1 (ED) | Distance 370.43 | Angle 11.00
+B destroyed E2 (EC) | Distance 536.11 | Angle 16.00
+B destroyed E3 (EE) | Distance 661.76 | Angle 21.00
+B destroyed E4 (ED) | Distance 648.11 | Angle 20.00
+B destroyed E5 (EC) | Distance 681.60 | Angle 21.00
+B destroyed E6 (EC) | Distance 235.70 | Angle 7.00
+B destroyed E7 (EE) | Distance 239.22 | Angle 7.00
+B destroyed E8 (EC) | Distance 74.10 | Angle 3.00
+Remaining Escorts: 0
+B Health: 65.00%
+
+FINAL RESULT
+B Status: ALIVE
+B Health: 65.00%
+Cumulative Impact: 35.00%

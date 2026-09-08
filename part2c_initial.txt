@@ -1,0 +1,100 @@
+PART 2-C INITIAL CONDITIONS
+
+Random Seed = 10
+Battlefield = 1000 x 1000
+
+Battleship Type = U
+B Position = 500.00 500.00
+B Vmax = 100.00
+B TB = 5.00
+B Initial Impact = 1.00
+B Gamma = 0.0500
+
+ESCORT SHIPS
+
+E1 (ED)
+Position = 565.81 610.93
+Velocity = 35.86 - 62.19
+Angle = 8.16 - 58.16
+Initial Impact = 0.05
+TE = 7.00
+Gamma = 0.1300
+
+E2 (EC)
+Position = 584.65 422.16
+Velocity = 18.57 - 67.65
+Angle = 6.35 - 31.35
+Initial Impact = 0.07
+TE = 4.00
+Gamma = 0.1200
+
+E3 (EE)
+Position = 976.79 978.06
+Velocity = 20.43 - 57.12
+Angle = 2.75 - 72.75
+Initial Impact = 0.04
+TE = 8.00
+Gamma = 0.1400
+
+E4 (ED)
+Position = 880.96 562.57
+Velocity = 59.83 - 94.26
+Angle = 6.44 - 56.44
+Initial Impact = 0.05
+TE = 7.00
+Gamma = 0.1300
+
+E5 (EC)
+Position = 223.44 214.42
+Velocity = 34.34 - 89.74
+Angle = 35.31 - 60.31
+Initial Impact = 0.07
+TE = 4.00
+Gamma = 0.1200
+
+E6 (EC)
+Position = 556.60 897.60
+Velocity = 16.15 - 57.49
+Angle = 62.68 - 87.68
+Initial Impact = 0.07
+TE = 4.00
+Gamma = 0.1200
+
+E7 (EE)
+Position = 245.84 661.90
+Velocity = 42.23 - 65.85
+Angle = 9.50 - 79.50
+Initial Impact = 0.04
+TE = 8.00
+Gamma = 0.1400
+
+E8 (EC)
+Position = 354.83 954.95
+Velocity = 16.24 - 64.15
+Angle = 45.43 - 70.43
+Initial Impact = 0.07
+TE = 4.00
+Gamma = 0.1200
+
+E9 (ED)
+Position = 321.06 888.99
+Velocity = 56.46 - 94.38
+Angle = 9.53 - 59.53
+Initial Impact = 0.05
+TE = 7.00
+Gamma = 0.1300
+
+E10 (ED)
+Position = 124.02 93.87
+Velocity = 38.37 - 60.44
+Angle = 30.83 - 80.83
+Initial Impact = 0.05
+TE = 7.00
+Gamma = 0.1300
+
+B PATH
+Point 1 = 672.12 518.86
+Point 2 = 662.49 819.16
+Point 3 = 581.22 739.74
+Point 4 = 782.89 827.06
+Point 5 = 401.64 168.77

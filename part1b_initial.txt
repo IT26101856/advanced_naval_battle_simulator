@@ -1,0 +1,48 @@
+PART 1-B INITIAL CONDITIONS
+===========================
+
+Battlefield: 1000 x 1000
+
+Battleship Type: U
+Maximum Velocity: 100.00
+
+ESCORT SHIPS
+------------
+E1 ED
+Position: 565.81 610.93
+Vmin: 35.86
+Vmax: 62.19
+Angle: 8.16 - 58.16
+
+E2 EC
+Position: 584.65 422.16
+Vmin: 18.57
+Vmax: 67.65
+Angle: 6.35 - 31.35
+
+E3 EE
+Position: 976.79 978.06
+Vmin: 20.43
+Vmax: 57.12
+Angle: 2.75 - 72.75
+
+E4 ED
+Position: 880.96 562.57
+Vmin: 59.83
+Vmax: 94.26
+Angle: 6.44 - 56.44
+
+E5 EC
+Position: 223.44 214.42
+Vmin: 34.34
+Vmax: 89.74
+Angle: 35.31 - 60.31
+
+
+BATTLESHIP PATH
+---------------
+Point 1 = (556.60, 897.60)
+Point 2 = (147.04, 62.36)
+Point 3 = (77.24, 963.73)
+Point 4 = (245.84, 661.90)
+Point 5 = (385.88, 271.17)

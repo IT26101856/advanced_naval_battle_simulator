@@ -1,0 +1,22 @@
+PART 1-A INITIAL CONDITIONS
+===========================
+
+Battlefield size: 1000 x 1000
+
+BATTLESHIP
+Type: U
+Position: (500.00, 500.00)
+Maximum Velocity: 100.00
+
+ESCORT SHIPS
+============
+
+Escort ID: 1
+Type: ED
+Position: (565.81, 610.93)
+Minimum Velocity: 38.40
+Maximum Velocity: 62.19
+Minimum Angle: 8.16
+Maximum Angle: 58.16
+Impact Power: 0.05
+

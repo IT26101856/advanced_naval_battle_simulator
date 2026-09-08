@@ -1,0 +1,46 @@
+PART 2-B STATIONARY SIMULATION
+
+Time 0.00 : E1 (ED) -> B | Damage 5% | Health 95.00%
+Time 0.00 : E2 (EC) -> B | Damage 7% | Health 88.00%
+Time 0.00 : E4 (ED) -> B | Damage 5% | Health 83.00%
+Time 0.00 : E5 (EC) -> B | Damage 7% | Health 76.00%
+Time 0.00 : E7 (EE) -> B | Damage 4% | Health 72.00%
+Time 0.00 : E9 (ED) -> B | Damage 5% | Health 67.00%
+Time 0.00 : B Attack #1 -> E2 (EC) | Threat 7%
+E2 destroyed.
+Time 5.00 : E5 (EC) -> B | Damage 7% | Health 60.00%
+Time 5.00 : B Attack #2 -> E5 (EC) | Threat 7%
+E5 destroyed.
+Time 8.00 : E1 (ED) -> B | Damage 5% | Health 55.00%
+Time 8.00 : E4 (ED) -> B | Damage 5% | Health 50.00%
+Time 8.00 : E9 (ED) -> B | Damage 5% | Health 45.00%
+Time 10.00 : E7 (EE) -> B | Damage 4% | Health 41.00%
+Time 10.00 : B Attack #3 -> E6 (EC) | Threat 7%
+E6 destroyed.
+Time 15.00 : B Attack #4 -> E8 (EC) | Threat 7%
+E8 destroyed.
+Time 16.00 : E1 (ED) -> B | Damage 5% | Health 36.00%
+Time 16.00 : E4 (ED) -> B | Damage 5% | Health 31.00%
+Time 16.00 : E9 (ED) -> B | Damage 5% | Health 26.00%
+Time 20.00 : E7 (EE) -> B | Damage 4% | Health 22.00%
+Time 20.00 : B Attack #5 -> E1 (ED) | Threat 5%
+E1 destroyed.
+Time 24.00 : E4 (ED) -> B | Damage 5% | Health 17.00%
+Time 24.00 : E9 (ED) -> B | Damage 5% | Health 12.00%
+Time 25.00 : B Attack #6 -> E4 (ED) | Threat 5%
+E4 destroyed.
+Time 30.00 : E7 (EE) -> B | Damage 4% | Health 8.00%
+Time 30.00 : B Attack #7 -> E9 (ED) | Threat 5%
+E9 destroyed.
+Time 35.00 : B Attack #8 -> E10 (ED) | Threat 5%
+E10 destroyed.
+Time 40.00 : E7 (EE) -> B | Damage 4% | Health 4.00%
+Time 40.00 : B Attack #9 -> E3 (EE) | Threat 4%
+E3 destroyed.
+Time 45.00 : B Attack #10 -> E7 (EE) | Threat 4%
+E7 destroyed.
+
+FINAL RESULT
+Battleship = ALIVE
+Health = 4.00%
+Battle time = 50.00 sec

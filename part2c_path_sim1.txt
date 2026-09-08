@@ -1,0 +1,101 @@
+PART 2-C PATH SIMULATION 1
+
+
+ITERATION 1
+B position = 672.12 518.86
+Time 0.00 : E1 (ED) Shot 1 -> B | IP 0.0500 | B Health 95.00%
+Time 0.00 : E2 (EC) Shot 1 -> B | IP 0.0700 | B Health 88.00%
+Time 0.00 : E4 (ED) Shot 1 -> B | IP 0.0500 | B Health 83.00%
+Time 0.00 : E5 (EC) Shot 1 -> B | IP 0.0700 | B Health 76.00%
+Time 0.00 : E9 (ED) Shot 1 -> B | IP 0.0500 | B Health 71.00%
+Time 0.00 : B Shot 1 -> E6 (EC) | IP 1.0000 | E Health 0.00%
+E6 DESTROYED!
+Time 4.00 : E2 (EC) Shot 2 -> B | IP 0.0621 | B Health 64.79%
+Time 4.00 : E5 (EC) Shot 2 -> B | IP 0.0621 | B Health 58.58%
+Time 5.00 : B Shot 2 -> E8 (EC) | IP 0.9512 | E Health 4.88%
+Time 7.00 : E1 (ED) Shot 2 -> B | IP 0.0439 | B Health 54.19%
+Time 7.00 : E4 (ED) Shot 2 -> B | IP 0.0439 | B Health 49.80%
+Time 7.00 : E9 (ED) Shot 2 -> B | IP 0.0439 | B Health 45.41%
+Time 8.00 : E2 (EC) Shot 3 -> B | IP 0.0551 | B Health 39.91%
+Time 8.00 : E5 (EC) Shot 3 -> B | IP 0.0551 | B Health 34.40%
+Time 10.00 : B Shot 3 -> E8 (EC) | IP 0.9048 | E Health 0.00%
+E8 DESTROYED!
+Time 12.00 : E2 (EC) Shot 4 -> B | IP 0.0488 | B Health 29.52%
+Time 12.00 : E5 (EC) Shot 4 -> B | IP 0.0488 | B Health 24.63%
+Time 14.00 : E1 (ED) Shot 3 -> B | IP 0.0386 | B Health 20.78%
+Time 14.00 : E4 (ED) Shot 3 -> B | IP 0.0386 | B Health 16.92%
+Time 14.00 : E9 (ED) Shot 3 -> B | IP 0.0386 | B Health 13.07%
+Time 15.00 : B Shot 4 -> E2 (EC) | IP 0.8607 | E Health 13.93%
+Time 16.00 : E2 (EC) Shot 5 -> B | IP 0.0433 | B Health 8.73%
+Time 16.00 : E5 (EC) Shot 5 -> B | IP 0.0433 | B Health 4.40%
+Time 20.00 : E2 (EC) Shot 6 -> B | IP 0.0384 | B Health 0.56%
+Time 20.00 : E5 (EC) Shot 6 -> B | IP 0.0384 | B Health 0.00%
+BATTLESHIP DESTROYED!
+
+============================
+FINAL STATUS
+============================
+B Status: DESTROYED
+B Health: 0.00%
+B Shots Fired: 4
+B Current Impact Factor: 0.818731
+
+E1 (ED)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 3
+Current Impact Factor: 0.033853
+
+E2 (EC)
+Status: ALIVE
+Health: 13.93%
+Shots Fired: 6
+Current Impact Factor: 0.034073
+
+E3 (EE)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 0
+Current Impact Factor: 0.040000
+
+E4 (ED)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 3
+Current Impact Factor: 0.033853
+
+E5 (EC)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 6
+Current Impact Factor: 0.034073
+
+E6 (EC)
+Status: DESTROYED
+Health: 0.00%
+Shots Fired: 0
+Current Impact Factor: 0.070000
+
+E7 (EE)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 0
+Current Impact Factor: 0.040000
+
+E8 (EC)
+Status: DESTROYED
+Health: 0.00%
+Shots Fired: 0
+Current Impact Factor: 0.070000
+
+E9 (ED)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 3
+Current Impact Factor: 0.033853
+
+E10 (ED)
+Status: ALIVE
+Health: 100.00%
+Shots Fired: 0
+Current Impact Factor: 0.050000

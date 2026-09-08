@@ -1,0 +1,16 @@
+PART 1-B SIMULATION 1
+========================
+
+
+ITERATION 1
+B Position: 556.60 897.60
+Battleship DESTROYED by E1 (ED)
+
+FINAL STATUS
+------------
+Battleship: DESTROYED
+E1 (ED): ALIVE
+E2 (EC): ALIVE
+E3 (EE): ALIVE
+E4 (ED): ALIVE
+E5 (EC): ALIVE

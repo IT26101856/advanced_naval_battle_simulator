@@ -1,0 +1,47 @@
+PART 2-B PATH SIMULATION 1
+
+
+ITERATION 1
+B Position = 672.12 518.86
+Time 0.00 : E1 (ED) -> B | Damage 5% | Health 95.00%
+Time 0.00 : E2 (EC) -> B | Damage 7% | Health 88.00%
+Time 0.00 : E4 (ED) -> B | Damage 5% | Health 83.00%
+Time 0.00 : E5 (EC) -> B | Damage 7% | Health 76.00%
+Time 0.00 : E9 (ED) -> B | Damage 5% | Health 71.00%
+Time 0.00 : B Attack #1 -> E2 (EC) | Threat 7%
+E2 destroyed.
+Time 5.00 : E5 (EC) -> B | Damage 7% | Health 64.00%
+Time 5.00 : B Attack #2 -> E5 (EC) | Threat 7%
+E5 destroyed.
+Time 8.00 : E1 (ED) -> B | Damage 5% | Health 59.00%
+Time 8.00 : E4 (ED) -> B | Damage 5% | Health 54.00%
+Time 8.00 : E9 (ED) -> B | Damage 5% | Health 49.00%
+Time 10.00 : B Attack #3 -> E6 (EC) | Threat 7%
+E6 destroyed.
+Time 15.00 : B Attack #4 -> E8 (EC) | Threat 7%
+E8 destroyed.
+Time 16.00 : E1 (ED) -> B | Damage 5% | Health 44.00%
+Time 16.00 : E4 (ED) -> B | Damage 5% | Health 39.00%
+Time 16.00 : E9 (ED) -> B | Damage 5% | Health 34.00%
+Time 20.00 : B Attack #5 -> E1 (ED) | Threat 5%
+E1 destroyed.
+Time 24.00 : E4 (ED) -> B | Damage 5% | Health 29.00%
+Time 24.00 : E9 (ED) -> B | Damage 5% | Health 24.00%
+Time 25.00 : B Attack #6 -> E4 (ED) | Threat 5%
+E4 destroyed.
+Time 30.00 : B Attack #7 -> E9 (ED) | Threat 5%
+E9 destroyed.
+Time 35.00 : B Attack #8 -> E10 (ED) | Threat 5%
+E10 destroyed.
+Time 40.00 : B Attack #9 -> E3 (EE) | Threat 4%
+E3 destroyed.
+Time 45.00 : B Attack #10 -> E7 (EE) | Threat 4%
+E7 destroyed.
+Remaining Escorts = 0
+B Health = 24.00%
+Current Time = 50.00 sec
+
+FINAL STATUS
+Battleship = ALIVE
+Health = 24.00%
+Battle Time = 50.00 sec

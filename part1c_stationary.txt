@@ -1,0 +1,18 @@
+PART 1-C STATIONARY SIMULATION
+
+E1 (ED) HIT B | Damage 5% | B Health 95.00%
+E2 (EC) HIT B | Damage 7% | B Health 88.00%
+E4 (ED) HIT B | Damage 5% | B Health 83.00%
+E5 (EC) HIT B | Damage 7% | B Health 76.00%
+E7 (EE) HIT B | Damage 4% | B Health 72.00%
+B destroyed E1 (ED) | Distance 128.98 | Angle 4.00
+B destroyed E2 (EC) | Distance 115.00 | Angle 4.00
+B destroyed E3 (EE) | Distance 675.18 | Angle 21.00
+B destroyed E4 (ED) | Distance 386.07 | Angle 12.00
+B destroyed E5 (EC) | Distance 397.54 | Angle 12.00
+B destroyed E6 (EC) | Distance 401.61 | Angle 12.00
+B destroyed E7 (EE) | Distance 301.35 | Angle 9.00
+B destroyed E8 (EC) | Distance 477.55 | Angle 14.00
+
+Cumulative Impact: 28.00%
+Final B Health: 72.00%
